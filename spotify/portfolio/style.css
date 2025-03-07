@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.tittle{
+    color: rgb(60, 255, 0);
+    font-size: 24px;
+}
+img{
+    border-style: solid;
+    border-color: rgb(0, 255, 221);
+    margin-left: 460px;
+    height: 400px;
+    border-radius: 20px;
+}
+.home{
+    transform: rotate(270deg);
+    position: absolute;
+    margin-top: 20%;
+    cursor: pointer;
+    position: fixed;
+}
+.about{
+    transform: rotate(90deg);
+    position: absolute;
+    margin-left: 93%;
+    margin-top: 20%;
+    cursor: pointer;
+    position: fixed;
+}
+.portfolio{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 45%;
+    cursor: pointer;
+    position: fixed;
+}
+a{
+    position: absolute;
+    text-decoration: none;
+    color: aliceblue;
+}
